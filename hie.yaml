@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "tp-haskell-holidays-template:lib"
+
+    - path: "./test"
+      component: "tp-haskell-holidays-template:test:tp-haskell-holidays-template-test"
